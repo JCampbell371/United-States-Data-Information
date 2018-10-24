@@ -1,0 +1,352 @@
+[
+    {
+      "State": "Alabama",
+      "Capital": "Montgomery",
+      "StateTree": "Longleaf Pine",
+      "StateFlower": "Camellia",
+      "StateBird": "Yellowhammer"
+    },
+    {
+      "State": "Alaska",
+      "Capital": "Juneau",
+      "StateTree": "Sitka Spruce",
+      "StateFlower": "Forget Me Not",
+      "StateBird": "Willow Ptarmigan"
+    },
+    {
+      "State": "Arizona",
+      "Capital": "Phoenix",
+      "StateTree": "Yellow Palo Verde",
+      "StateFlower": "Saguaro Cactus",
+      "StateBird": "Cactus Wren"
+    },
+    {
+      "State": "Arkansas",
+      "Capital": "Little Rock",
+      "StateTree": "Loblolly Pine",
+      "StateFlower": "Apple Blossom",
+      "StateBird": "Mockingbird"
+    },
+    {
+      "State": "California",
+      "Capital": "Sacramento",
+      "StateTree": "California Redwood",
+      "StateFlower": "California Poppy",
+      "StateBird": "California Valley Quail"
+    },
+    {
+      "State": "Colorado",
+      "Capital": "Denver",
+      "StateTree": "Colorado Blue Spruce",
+      "StateFlower": "Rocky Mountain Columbine",
+      "StateBird": "Lark Bunting"
+    },
+    {
+      "State": "Connecticut",
+      "Capital": "Hartford",
+      "StateTree": "White Oak",
+      "StateFlower": "Mountain Laurel",
+      "StateBird": "Robin"
+    },
+    {
+      "State": "Delaware",
+      "Capital": "Dover",
+      "StateTree": "American Holly",
+      "StateFlower": "Peach Blossom",
+      "StateBird": "Blue Hen Chicken"
+    },
+    {
+      "State": "Florida",
+      "Capital": "Tallahassee",
+      "StateTree": "Sabal Palm",
+      "StateFlower": "Orange Blossom",
+      "StateBird": "Mockingbird"
+    },
+    {
+      "State": "Georgia",
+      "Capital": "Atlanta",
+      "StateTree": "Southern Live Oak",
+      "StateFlower": "Cherokee Rose",
+      "StateBird": "Brown Thrasher"
+    },
+    {
+      "State": "Hawaii",
+      "Capital": "Honolulu",
+      "StateTree": "Candlenut Tree",
+      "StateFlower": "Hibiscus or Pua Aloalo",
+      "StateBird": "Nene"
+    },
+    {
+      "State": "Idaho",
+      "Capital": "Boise",
+      "StateTree": "Western White Pine",
+      "StateFlower": "Mock Orange",
+      "StateBird": "Mountain Bluebird"
+    },
+    {
+      "State": "Illinois",
+      "Capital": "Springfield",
+      "StateTree": "White Oak",
+      "StateFlower": "Purple Violet",
+      "StateBird": "Cardinal"
+    },
+    {
+      "State": "Indiana",
+      "Capital": "Indianapolis",
+      "StateTree": "Tulip Tree",
+      "StateFlower": "Peony",
+      "StateBird": "Cardinal"
+    },
+    {
+      "State": "Iowa",
+      "Capital": "Des Moines",
+      "StateTree": "Bur Oak",
+      "StateFlower": "Wild Prarie Rose",
+      "StateBird": "Eastern Goldfinch"
+    },
+    {
+      "State": "Kansas",
+      "Capital": "Topeka",
+      "StateTree": "Eastern Cottonwood",
+      "StateFlower": "Sunflower",
+      "StateBird": "Western Meadowlark"
+    },
+    {
+      "State": "Kentucky",
+      "Capital": "Frankfort",
+      "StateTree": "Tulip Tree",
+      "StateFlower": "Goldenrod",
+      "StateBird": "Cardinal"
+    },
+    {
+      "State": "Louisiana",
+      "Capital": "Baton Rouge",
+      "StateTree": "Bald Cypress",
+      "StateFlower": "Magnolia",
+      "StateBird": "Eastern Brown Pelican"
+    },
+    {
+      "State": "Maine",
+      "Capital": "Augusta",
+      "StateTree": "Eastern White Pine",
+      "StateFlower": "White Pine Cone and Tassel",
+      "StateBird": "Chickadee"
+    },
+    {
+      "State": "Maryland",
+      "Capital": "Annapolis",
+      "StateTree": "White Oak",
+      "StateFlower": "Black-Eyed Susan",
+      "StateBird": "Baltimore Oriole"
+    },
+    {
+      "State": "Massachusetts",
+      "Capital": "Boston",
+      "StateTree": "American Elm",
+      "StateFlower": "Mayflower",
+      "StateBird": "Chickadee"
+    },
+    {
+      "State": "Michigan",
+      "Capital": "Lansing",
+      "StateTree": "Eastern White Pine",
+      "StateFlower": "Apple Blossom",
+      "StateBird": "Robin"
+    },
+    {
+      "State": "Minnesota",
+      "Capital": "Saint Paul",
+      "StateTree": "Red Pine",
+      "StateFlower": "Pink and White Lady's Slipper",
+      "StateBird": "Common Loon"
+    },
+    {
+      "State": "Mississippi",
+      "Capital": "Jackson",
+      "StateTree": "Southern Magnolia",
+      "StateFlower": "Magnolia",
+      "StateBird": "Mockingbird"
+    },
+    {
+      "State": "Missouri",
+      "Capital": "Jefferson City",
+      "StateTree": "Flowering Dogwood",
+      "StateFlower": "Hawthorn",
+      "StateBird": "Bluebird"
+    },
+    {
+      "State": "Montana",
+      "Capital": "Helena",
+      "StateTree": "Ponderosa Pine",
+      "StateFlower": "Bitterroot",
+      "StateBird": "Western Meadowlark"
+    },
+    {
+      "State": "Nebraska",
+      "Capital": "Lincoln",
+      "StateTree": "Eastern Cottonwood",
+      "StateFlower": "Goldenrod",
+      "StateBird": "Western Meadowlark"
+    },
+    {
+      "State": "Nevada",
+      "Capital": "Carson City",
+      "StateTree": "Single-Leaf Pinon & Bristlecone",
+      "StateFlower": "Sagebrush",
+      "StateBird": "Mountain Bluebird"
+    },
+    {
+      "State": "New Hampshire",
+      "Capital": "Concord",
+      "StateTree": "Paper Birch",
+      "StateFlower": "Purple Lilac",
+      "StateBird": "Purple Finch"
+    },
+    {
+      "State": "New Jersey",
+      "Capital": "Trenton",
+      "StateTree": "Northern Red Oak",
+      "StateFlower": "Violet",
+      "StateBird": "Eastern Goldfinch"
+    },
+    {
+      "State": "New Mexico",
+      "Capital": "Santa Fe",
+      "StateTree": "Pinon Tree",
+      "StateFlower": "Yucca Flower",
+      "StateBird": "Roadrunner"
+    },
+    {
+      "State": "New York",
+      "Capital": "Albany",
+      "StateTree": "Sugar Maple",
+      "StateFlower": "Rose",
+      "StateBird": "Eastern Bluebird"
+    },
+    {
+      "State": "North Carolina",
+      "Capital": "Raleigh",
+      "StateTree": "Longleaf Pine",
+      "StateFlower": "Dogwood",
+      "StateBird": "Cardinal"
+    },
+    {
+      "State": "North Dakota",
+      "Capital": "Bismarck",
+      "StateTree": "American Elm",
+      "StateFlower": "Wild Prairie Rose",
+      "StateBird": "Western Meadowlark"
+    },
+    {
+      "State": "Ohio",
+      "Capital": "Columbus",
+      "StateTree": "Ohio Buckeye",
+      "StateFlower": "Scarlet Carnation",
+      "StateBird": "Cardinal"
+    },
+    {
+      "State": "Oklahoma",
+      "Capital": "Oklahoma City",
+      "StateTree": "Eastern Redbud",
+      "StateFlower": "Mistletoe",
+      "StateBird": "Scissor-tailed Flycatcher"
+    },
+    {
+      "State": "Oregon",
+      "Capital": "Salem",
+      "StateTree": "Douglas Fir",
+      "StateFlower": "Oregon Grape",
+      "StateBird": "Western Meadowlark"
+    },
+    {
+      "State": "Pennsylvania",
+      "Capital": "Harrisburg",
+      "StateTree": "Eastern Hemlock",
+      "StateFlower": "Mountain Laurel",
+      "StateBird": "Ruffled Grouse"
+    },
+    {
+      "State": "Rhode Island",
+      "Capital": "Providence",
+      "StateTree": "Red Maple",
+      "StateFlower": "Violet",
+      "StateBird": "Rhode Island Red"
+    },
+    {
+      "State": "South Carolina",
+      "Capital": "Columbia",
+      "StateTree": "Sabal Palm",
+      "StateFlower": "Yellow Jessamine",
+      "StateBird": "Carolina Wren"
+    },
+    {
+      "State": "South Dakota",
+      "Capital": "Pierre",
+      "StateTree": "White Spruce",
+      "StateFlower": "Pasque Flower",
+      "StateBird": "Ring-necked Pheasant"
+    },
+    {
+      "State": "Tennessee",
+      "Capital": "Nashville",
+      "StateTree": "Tulip Tree",
+      "StateFlower": "Iris",
+      "StateBird": "Mockingbird"
+    },
+    {
+      "State": "Texas",
+      "Capital": "Austin",
+      "StateTree": "Pecan",
+      "StateFlower": "Bluebonnet",
+      "StateBird": "Mockingbird"
+    },
+    {
+      "State": "Utah",
+      "Capital": "Salt Lake City",
+      "StateTree": "Quaking Aspen",
+      "StateFlower": "Sego Lily",
+      "StateBird": "Ring-billed Gull"
+    },
+    {
+      "State": "Vermont",
+      "Capital": "Montpelier",
+      "StateTree": "Sugar Maple",
+      "StateFlower": "Red Clover",
+      "StateBird": "Hermit Thrush"
+    },
+    {
+      "State": "Virginia",
+      "Capital": "Richmond",
+      "StateTree": "Flowering Dogwood",
+      "StateFlower": "Dogwood",
+      "StateBird": "Cardinal"
+    },
+    {
+      "State": "Washington",
+      "Capital": "Olympia",
+      "StateTree": "Western Hemlock",
+      "StateFlower": "Pink Rhododendron",
+      "StateBird": "Eastern Goldfinch"
+    },
+    {
+      "State": "West Virginia",
+      "Capital": "Charleston",
+      "StateTree": "Sugar Maple",
+      "StateFlower": "Rhododendron",
+      "StateBird": "Cardinal"
+    },
+    {
+      "State": "Wisconsin",
+      "Capital": "Madison",
+      "StateTree": "Sugar Maple",
+      "StateFlower": "Wood Violet",
+      "StateBird": "Robin"
+    },
+    {
+      "State": "Wyoming",
+      "Capital": "Cheyenne",
+      "StateTree": "Eastern Cottonwood",
+      "StateFlower": "Indian Paintbrush",
+      "StateBird": "Western Meadowlark"
+    }
+  ]
